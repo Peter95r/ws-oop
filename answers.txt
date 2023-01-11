@@ -1,0 +1,28 @@
+1. Variable is an element of java code, which contains basic dada like char, numbers, and logic (true/false)
+2. byte, short, int , long, float, double, char, boolean
+3. float, double
+4.boolean
+5.charAt, indexOf, substring, concat, replace, length
+6. complie: javac Name.java   run: java Name
+7.int
+8.double
+9.System.out.println("Het werkt");
+10.
+short s;
+boolean is;
+int i;
+
+s=10;
+is=true;
+i=100;
+
+long l = 100;
+char c = 'z';
+int j = 20;
+
+11.
+if -else if -else if -else
+
+12.yes
+
+13.!

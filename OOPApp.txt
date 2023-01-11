@@ -1,0 +1,10 @@
+public class OOPApp{
+
+
+public stait void main(String[] args){
+
+
+new Product();
+
+}
+}
