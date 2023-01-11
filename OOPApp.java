@@ -45,7 +45,7 @@ System.out.println(d.getColor() + " " + d.getMaterial() + " "+d.getWeight() + " 
 
 class Book{
 	
-
+	public int i = 10;
 	public String title;
 	private boolean isFinnised;
 	public short pages = 0;
